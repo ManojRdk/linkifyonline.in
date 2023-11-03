@@ -400,7 +400,12 @@ span{
   font-size: 28px;
   margin-right: 3%;
 }
-
+.text{
+  height: 42%;
+  background-color: #ffffff92;
+  margin-top: 1px;
+  margin-bottom: 0px;
+}
 .text h1{
   color: rgba(0, 0, 0, 0.87);
   text-align: center;
@@ -450,7 +455,7 @@ margin-bottom: 1.6rem;
 }
 
 .social{
-  background-color: #e2e9f1bd;
+  background-color: #e2e9f1c6;
   border-radius: 2%;
   padding: 1px 3.5px;
   font-size: 12px;
@@ -462,10 +467,8 @@ margin-bottom: 1.6rem;
   cursor: pointer;
 }
 .containerm{
-  background: rgba(236, 235, 232, 0.863);
-  height: 1000vh;
-  margin-top: 5px;
-
+  background: #e8dfdf;
+  height: 2200vh;
 }
 .data {
     width: 73%;
@@ -481,7 +484,7 @@ margin-bottom: 1.6rem;
   height: 92px;
   flex-shrink: 0;
   border-radius: 8px;
-  background: #ffffff85;
+  background: #ffffffe6;
   margin: 15px ;
 }
 
