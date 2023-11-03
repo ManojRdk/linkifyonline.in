@@ -28,7 +28,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    height: 55%;
+    height: 45%;
     width: 230px;
     padding: 10px 5px;
     background: rgb(15, 23, 48);
@@ -215,7 +215,7 @@ span{
   .container-bar{
     position: relative;
     background: #03052D;
-    height: 8.5%;
+    height: 7.5%;
     width: 100%;
     margin-top: -24px;
  }
@@ -300,26 +300,27 @@ span{
   border: none;
   outline: none;
   border-radius: 6px;
-  background: rgba(15, 18, 59, 0.847);
-  color: #d8e1e4;
+  background: rgba(255, 255, 255, 0.94);
+  color: #2f3c70;
   font-size: 1rem;
   font-weight: 600;
   padding: 8px 28%;
   margin-left:11%;
-  margin-top:5% ;
+  margin-top:8% ;
   border-radius: 3px;
   cursor: pointer;
   transition: 0.15s ease;
 }
 .login-btn:hover{
-  background: #172b4f;
+  background: #172b4fc9;
+  color: #F9F5FF;
 }
  .user{
   margin-top: -19%;
  }
  .user i{
   cursor: pointer;
-  font-size: 14px;
+  font-size: 10px;
   margin-top: 0rem;
   margin-left: 83%;
  } 
@@ -328,7 +329,7 @@ span{
     top: 100%;
    right:-100%;
    width: 105px;
-  height: 18.2vh;
+  height: 17vh;
   margin-top: 1rem;
   list-style-type: none;
   display: flex;
@@ -401,10 +402,7 @@ span{
   margin-right: 3%;
 }
 .text{
-  height: 42%;
-  background-color: #ffffff92;
-  margin-top: 1px;
-  margin-bottom: 0px;
+    background-color: #ffffff92;
 }
 .text h1{
   color: rgba(0, 0, 0, 0.87);
@@ -467,8 +465,8 @@ margin-bottom: 1.6rem;
   cursor: pointer;
 }
 .containerm{
-  background: #e8dfdf;
-  height: 2200vh;
+  margin-top: 5px;
+  background: rgba(3, 5, 45, 0.07);
 }
 .data {
     width: 73%;
@@ -484,7 +482,7 @@ margin-bottom: 1.6rem;
   height: 92px;
   flex-shrink: 0;
   border-radius: 8px;
-  background: #ffffffe6;
+  background: #fcfbfb;
   margin: 15px ;
 }
 
